@@ -10,9 +10,9 @@ I am currently a student at Boise Codeworks. I've got a varied background from a
 
 #### You can reach out to me through 
 
-######[LinkedIn](https://www.linkedin.com/in/cameron-ara/)
+⏭[LinkedIn](https://www.linkedin.com/in/cameron-ara/)
 
-######[cameron.kueneman@gmail.com](cameron.kueneman@gmail.com)
+⏭[cameron.kueneman@gmail.com](cameron.kueneman@gmail.com)
 
 
 <!--
