@@ -4,9 +4,9 @@
 
 I am currently a student at Boise Codeworks. I've got a varied background from audiovisual production, musical performance, and now programming as well. I love having a project that I can sink my teeth into and really into the weeds, whether it is familiar or not. My professional experience in the tech industry is limited, but my enthusiasm and readiness to learn is not.
 
-..* Codeworks has me working through lots of varied projects, I have tried to make them all my own in some way.
+⏭ Codeworks has me working through lots of varied projects, I have tried to make them all my own in some way.
 
-..* A personal project of mine is the MTG-Randomizer, which is planned on being a mulitplayer draft client. 
+⏭ A personal project of mine is the MTG-Randomizer, which is planned on being a mulitplayer draft client. 
 
 #### You can reach out to me through 
 
