@@ -2,7 +2,7 @@
 
 ## Hey! I'm Cameron!
 
-I am currently a student at Boise Codeworks. I've got a varied background from audiovisual production, musical performance, and now programming as well. I love having a project that I can sink my teeth into and really into the weeds, whether it is familiar or not. My professional experience in the tech industry is limited, but my enthusiasm and readiness to learn is not.
+I am currently a student at Boise Codeworks. I've got a varied background from audiovisual production, musical performance, and now programming as well. I love having a project that I can sink my teeth into and really get into the weeds. My professional experience in the tech industry is limited, but my enthusiasm and readiness to learn is not.
 
 ⏭Languages/Frameworks I'm learning - HTML, CSS, Bootstrap, JS, MVC Pattern, Node.js, Vue.
 
