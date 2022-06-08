@@ -10,7 +10,7 @@ I am currently a student at Boise Codeworks. I've got a varied background from a
 
 ⏭ A personal project of mine is the [MTG-Randomizer](https://github.com/DMGCK/mtg-randomizer), which is planned to be a mulitplayer draft client. 
 
-#### You can reach out to me through 
+#### You can reach out to me through:
 
 ⏭[LinkedIn](https://www.linkedin.com/in/cameron-ara/)
 
